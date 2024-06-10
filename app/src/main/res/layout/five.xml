@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+
+    tools:context="com.example.ireader.w_open_local_file_Activity"
+    tools:ignore="MissingDefaultResource">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="10dp"
+        android:orientation="horizontal">
+
+
+        <TextView
+            android:autoSizeTextType="uniform"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="1dp"
+            android:layout_marginBottom="30dp"
+
+            android:text="
+                         第1章 冷血的男人\n
+
+夜已深沉，静得像一潭水。
+
+医院走廊空旷静谧，倏然被一阵哀嚎声打破。
+
+护士步履匆匆，急切地叩响休息室的门。
+
+“苏医生，快醒醒！有个30周的孕妇大出血，人好像快不行了……”
+
+苏浅言睁开清眸，“好！我马上过去！”
+
+静夜下，高跟鞋噔噔作响，宽松的白大褂轻轻拂起，苏浅言高挑窈窕的身影在医院走廊一闪而过。
+
+准备就绪后，苏浅言匆匆走进手术室。
+
+然而刚推开门，眸光落在手术台上陷入昏迷的产妇身上，苏浅言愣住了。
+
+怎么是她？
+
+直到今时今日，苏浅言依然清楚地记得，躺在手术台上的女人曾在她结婚当日，在众目睽睽之下破坏她与叶云锦的婚礼。
+
+那种刻骨铭心的痛楚，让她常在午夜梦回的时候惊醒。
+
+但，作为医生，患者永远是第一位，无论她是谁。
+
+眉梢轻皱，苏浅言深呼吸几口气，尽量让自己保持从容淡定，如同平常面对其他的孕妇，开始了手术。
+
+然而手术进行没多久，苏浅言笃定的面容倏然变得沉着，她抬起清眸，“胎儿入院之前就已严重缺氧，现在只能保住大人，请家属签字！”
+
+很快，苏浅言见到了孕妇的家属……她的前夫叶云锦！
+"
+            android:textSize="22sp" />
+
+    </RelativeLayout>
+
+
+</ScrollView>

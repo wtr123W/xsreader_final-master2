@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+
+    tools:context="com.example.ireader.w_open_local_file_Activity"
+    tools:ignore="MissingDefaultResource">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="10dp"
+        android:orientation="horizontal">
+
+
+        <TextView
+            android:autoSizeTextType="uniform"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="1dp"
+            android:layout_marginBottom="30dp"
+
+            android:text="
+                              第一章 天大的误会\n
+
+四十层高的吴氏集团伫立在市中心，耸入云霄的壮伟让无数人惊羡不已。俞妤站在吴氏集团公司前，娇小的身躯与这壮观的公司形成鲜明对比。
+
+一阵窒息感袭来，缺氧的大脑传来过度疲惫的警示，她站在那里，觉得眼前的高楼要向她倒去，视线也已经快锁不住前方物体。
+
+“俞小姐，您还是回去吧，吴董事长说了，不想见您。”
+
+“不，我不回去，除非他下来见我！”俞妤抑住涌上来的疲惫感，倔强地摇了摇头，毫无血色起皮的唇开阖间吐出沙哑的嗓音，“他说过，我在这里等他一天，他就会来见我。”
+
+是的，俞妤站在这里已经一天一夜了，只是为了给他一个解释，而他说了，如果她站在他公司前一天，他就给她这个机会！
+
+“您已经站在这里很久了，要是被传出去，对公司声誉也不好，您还是先回……”秘书话还未说完，一辆黑色轿车驶了过来。
+
+是他的车！
+
+她忙推开身旁的秘书，激动地奔了过去，大张双臂跨立在轿车面前拦住去路。
+
+“明轩，你下来，你听我解释！”
+
+轿车在离她只有几公分的位置停了下来，她连忙跑到车门边。
+
+吝啬地留了一条缝的车窗只透出了一双司机的眼睛，她连吴明轩一根发丝也没见着。
+
+“俞小姐，吴董说他在家等你。”
+
+俞妤一听，惊喜地展了眉头，张了张嘴还没来得及说话那狭小的缝隙就关了起来，突然发动的车让她一个踉跄摔倒在地。
+
+她狼狈爬起来，看着扬尘而去的车影她慌忙拦住了一辆出租车，也赶回了家中。
+
+打开门，吴明轩和俞妤目光刚一相碰就移开了视线。
+
+他甚至都不愿意看见她一眼！
+
+俞妤心一痛。
+
+“明轩……”
+
+“闭嘴，谁准你这样叫我？”
+
+男人凶狠的眼神让俞妤一个哆嗦，她紧张地往后缩了缩。
+
+这般畏缩的动作落入男人眸底，只引来男人一声嗤笑
+
+"
+            android:textSize="22sp" />
+
+    </RelativeLayout>
+
+
+</ScrollView>

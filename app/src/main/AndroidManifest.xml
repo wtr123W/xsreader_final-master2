@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    package="com.example.ireader">
+
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.INTERNET" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/logo"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity android:name=".g_huadong3"></activity>
+        <activity android:name=".g_huadong2" />
+        <activity android:name=".g_huadong1" />
+        <activity android:name=".x_shuhuang" />
+        <activity android:name=".x_shuhuang1" />
+        <activity android:name=".x_web2_Activity" />
+        <activity android:name=".x_web1_Activity" />
+        <activity android:name=".x_zhonghepinglun3" />
+        <activity android:name=".x_zhonghepinglun2" />
+        <activity android:name=".x_zhonghepinglun" />
+        <activity android:name=".x_zhonghepinglun1" />
+        <activity android:name=".x_shuping3" />
+        <activity android:name=".x_shuping2" />
+        <activity android:name=".x_shuping1" />
+        <activity android:name=".x_shuping" />
+        <activity android:name=".c_xiugaiActivity" />
+        <activity android:name=".c_xggrActivity" />
+        <activity android:name=".c_grActivity" />
+        <activity android:name=".c_configActivity" />
+        <activity android:name=".c_titleActivity" />
+        <activity android:name=".c_registerActivity" />
+        <activity android:name=".c_loginActivity" />
+        <activity android:name=".one" />
+        <activity android:name=".two" />
+        <activity android:name=".three" />
+        <activity android:name=".four" />
+        <activity android:name=".five" />
+        <activity android:name=".six" />
+        <activity android:name=".seven" />
+        <activity
+            android:name=".c_indexActivity"
+            android:theme="@style/Theme.AppCompat.Light.NoActionBar">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity android:name=".g_resou3" />
+        <activity android:name=".g_resou2" />
+        <activity android:name=".g_fenlei" />
+        <activity android:name=".g_feilei" />
+        <activity android:name=".g_ziye" />
+        <activity android:name=".g_resou" />
+        <activity android:name=".g_grid" />
+        <activity android:name=".g_item" />
+        <activity android:name=".g_custom" />
+        <activity android:name=".g_search" />
+        <activity android:name=".g_leibiao" /> <!-- 首页 -->
+        <activity
+            android:name=".w_main_pageActivity"
+            android:label="@string/title_activity_w_main_page" />
+        <activity android:name=".w_list_Activity" />
+        <activity android:name=".w_open_local_file_Activity" />
+        <activity
+            android:name="com.bifan.txtreaderlib.ui.HwTxtPlayActivity"
+            android:theme="@style/HwTxtFullScreen">
+            <intent-filter>
+                <data android:scheme="txt" />
+
+                <action android:name="android.intent.action.VIEW" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+
+                <data android:mimeType="text/plain" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".w_detailActivity"
+            android:label="@string/title_activity_w_detail"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity android:name=".x_chuan" />
+    </application>
+
+</manifest>

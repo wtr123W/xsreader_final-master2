@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+
+    tools:context="com.example.ireader.w_open_local_file_Activity"
+    tools:ignore="MissingDefaultResource">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="10dp"
+        android:orientation="horizontal">
+
+
+        <TextView
+            android:autoSizeTextType="uniform"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="1dp"
+            android:layout_marginBottom="30dp"
+
+            android:text="
+                               迟到的感言\n
+
+上架时，按其它网站之前的规矩要写一篇感言，我问责编六尘，六尘说都可以，我当时很忙，便按‘不写也可以'的理解执行了。
+
+现在有空想想，还是写一篇。我是个作者，更是个读者。从读者的角度出发，我很喜欢看作者的只言片语，在这些只言片语中，我能感受到作者的性情。
+
+这就是作者与读者的沟通吧！
+
+有沟通比无沟通好，起码读者不会感觉到作者冷漠得像台发书的机器。
+
+实不相瞒，这本书是从起点转至纵横的，虽然现在依然没什么成绩，但我并不沮丧，并且很安心很有热情地一直往下写去。
+
+很重要的原因是纵横确实让作者很暖心。
+
+无论后台编辑，无论签约编辑，有问必复，工作极认真，态度还极温和。
+
+当然，最让人无话可说的是责编六尘大大，随时随地出现在作者群里，让人怀疑他到底会不会休息。关键的是，他亦有问必复，相信老作者会有同样感受，网文责编能够这样的，确实极少，当然大神们的感受除外。不是恭维，组群作者有目共睹。
+
+这本书我写了五十万字才发的，前期作了大量修改，写到现在，我感觉写的越来越好，所以即便读者为零，我也会毫不气馁完成我想要写的东西。
+
+自己决定做的事，不讲做的多好，最起码要完成，不为别的，给自己一个交待，我做了，我努力了，我完成了，于是我心安了！这是上了年纪的人该有的做事态度。
+
+这本书以人类艰难星际大迁徙为核心，写一群少年的成长，曲折离奇，但成长逻辑合理。本书想做到两点，以真挚情感悲壮的历程感动你，以优美的意境清新的语言带给你轻松愉悦的心情。
+
+想是这么想的，有没有做到，还请读者评判。
+
+批评很重要，这会让我认识到不足，但我不会以能力为托辞，裹足不前。
+
+就写这么多，愿意跟作者聊的，请在书评中留言，谢谢！
+"
+            android:textSize="22sp" />
+
+    </RelativeLayout>
+
+
+</ScrollView>

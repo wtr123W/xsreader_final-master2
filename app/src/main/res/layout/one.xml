@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+
+    tools:context="com.example.ireader.w_open_local_file_Activity"
+    tools:ignore="MissingDefaultResource">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="10dp"
+        android:orientation="horizontal">
+
+
+        <TextView
+            android:autoSizeTextType="uniform"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="1dp"
+            android:layout_marginBottom="30dp"
+
+            android:text="
+                               第一章：\n
+        卓岳的修仙日常,耶和华神降下奇迹，使以色列的妻子诞下一子，名为约瑟。
+            约瑟是受神赐福之子，倍受父母的宠爱，招致众异母兄弟的嫉恨。
+            约瑟的兄弟将约瑟卖给以实玛利人，以实玛利人又将约瑟卖至埃及为奴。
+            在埃及，约瑟凭自己的智慧，历经波折后从奴隶成为埃及宰相。耶和华神将那人安置在伊甸园，使他修理看守。
+            耶和华神吩咐他说，园中各样树上的果子，你可以随意吃。
+            只是分别善恶树上的果子，你不可吃，因为你吃的日子必定死。
+            耶和华神又对亚当说，你既听从妻子的话，吃了我所吩咐你不可吃的那树上的果子，
+            地必为你的缘故受咒诅。你必终身劳苦，才能从地里得吃的。地必给你长出荆棘和蒺藜来，
+            你也要吃田间的菜蔬。你必汗流满面才得糊口，直到你归了土，因为你是从土而出的。
+            你本是尘土，仍要归于尘土。
+            利物浦海港码头的繁忙仿佛能烘暖深秋的凉意。一只海鸥在海上捕猎一无所获，乘着腥咸的海风到热闹得热气腾腾的港口，从停满海港的船只大大小小的桅杆中挑了一根还没被它的同类占满的稍事休息，一边整理羽毛，一边看着下面光膀子的码头工人汗流浃背，将巨大的货物箱从形形色色的货船搬上搬下，
+            干完活的水手呼朋唤友，嚷着要去找乐子，做大生意的商人们讨价还价，争得面红耳赤，
+            决定冒一次险，调整姿势后向鱼贩子的手推车俯冲，叼走一条小鱼，惹来鱼贩子一通咒骂——他似乎不知道人类的语言之于海鸥，正如海鸥的叫声之于人类一样，不过是毫无意义的声音。海鸥就比他聪明，知道他听不懂自己的叫声，就直接用行动表明自己的意图，而不是和他商量能不能等下次运气好的时候抓条差不多大的鱼还给他——海鸥未必认得出鱼贩子的长相，但一定记得他堆满鲜鱼的手推车。
+"
+            android:textSize="22sp" />
+
+    </RelativeLayout>
+
+
+</ScrollView>

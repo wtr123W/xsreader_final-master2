@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+
+    tools:context="com.example.ireader.w_open_local_file_Activity"
+    tools:ignore="MissingDefaultResource">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="10dp"
+        android:orientation="horizontal">
+
+
+        <TextView
+            android:autoSizeTextType="uniform"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="1dp"
+            android:layout_marginBottom="30dp"
+
+            android:text="
+                                第1章 \n
+                        极品世子爷\n
+
+“世子、世子你快醒醒呀，您这是怎么了，你可别吓我呀！”
+
+项云正睡得香甜，忽然感到耳边有一道银铃般动听的声音在自己耳边呼唤。
+
+与此同时，他还感觉到，一只冰凉柔滑的手正在自己的脸上摩挲，并轻轻地摇晃着自己的脑袋。
+
+项云还是第一次听到如此动听的声音，感受到这柔软嫩滑的抚摸，
+再嗅着鼻尖传来的芬芳，项云不禁露出了一个无比享受笑容。
+
+“啊……世子笑了！”
+
+“是呀，世子笑了，他没死！”
+
+“哎呀，世子没死，太好了！”
+
+又是一阵女人惊喜的声音传来，房间里似乎有很多女人，
+项云心中有些奇怪，周围怎么会有那么多女人的声音？他此刻脑袋还有些混沌模糊。
+
+项云心中正疑惑之际，那一道温柔动听的声音再次传来，这一次，声音显然是有些激动和欣喜。
+
+“世子，你醒了吗，你可别吓婉儿，你醒了就睁开眼睛呀。”
+"
+            android:textSize="22sp" />
+
+    </RelativeLayout>
+
+
+</ScrollView>
